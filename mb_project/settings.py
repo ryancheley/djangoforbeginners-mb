@@ -25,7 +25,7 @@ SECRET_KEY = 'gmc(ut7si=of)7l%jrmy6-0!99k+1g57v7ds^0&hn^7m5dw5u6'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
